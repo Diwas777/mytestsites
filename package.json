@@ -4,7 +4,7 @@
   "description": "My neat Nuxt.js project",
   "author": "DIWAS POUDEL",
   "private": true,
-  "homepage": "https://Diwas777.github.io/mytestsites",
+  "homepage": "https://Diwas777.github.io/mytestsites/",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
