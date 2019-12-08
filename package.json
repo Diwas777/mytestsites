@@ -1,0 +1,20 @@
+{
+  "name": "chatApp",
+  "version": "1.0.0",
+  "description": "My neat Nuxt.js project",
+  "author": "DIWAS POUDEL",
+  "private": true,
+  "homepage": "https://Diwas777.github.io/mytestsites",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
